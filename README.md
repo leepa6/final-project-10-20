@@ -4,17 +4,19 @@ Pre-MVP
 
 - Have user choose between three options of packages (Starter, Pro, Enterprise)
 
-function buy500()
+function buy500() {
     // user defined function (?) click button and display as total on cart
-    // getElementByID("something").innerHTML
+    getElementByID("something").innerHTML
+}
 
-function buy1000()
+function buy1000() {
     // user defined function (?) click button and display as total on cart
-    // getElementByID("something").innerHTML
-
-function buy2000()
+    getElementByID("something").innerHTML
+}
+function buy2000() {
     // user defined function (?) click button and display as total on cart
-    // getElementByID("something").innerHTML
+    getElementByID("something").innerHTML
+}
 
 - Price total will remain on screen but will change to whatever the user will click.
 For example, a user can choose $2,000 priced package but can change to $1,000 package.
